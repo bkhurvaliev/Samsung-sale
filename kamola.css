@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sayt {
+    display: flex;
+    justify-content: center;
+
+}
+
+.sayt h1 {
+    font-size: 35px;
+    font-family: cursive;
+    color: purple;
+
+}
+
+.sayt p {
+    font-size: 24px;
+    color: blue;
+}
